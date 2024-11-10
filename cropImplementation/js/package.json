@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ctc-carousel-js": "^1.6.0",
+    "js-crop": "^2.5.6"
+  }
+}
